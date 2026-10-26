@@ -272,4 +272,4 @@ workshop_guide/
 | July 9, 2026 | Toronto | Port operations | sfc-gh-obenning/coco-hol-toronto |
 | July 16, 2026 | Calgary | Energy/oil sands | sfc-gh-obenning/coco-hol-calgary |
 | July 21, 2026 | Vancouver | Port operations | sfc-gh-obenning/coco-hol-vancouver |
-| November 9, 2026 | Tustin, CA (Tricon) | Single-family rental operations | carson-walker_snow/coco-hol-tricon |
+| November 9, 2026 | Tustin, CA (Tricon) | Single-family rental operations | sfc-gh-cwalker/coco-hol-tricon |

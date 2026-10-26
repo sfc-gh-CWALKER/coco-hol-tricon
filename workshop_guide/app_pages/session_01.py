@@ -50,7 +50,7 @@ The key requirement is that all 9 tables are created and populated. Execute all 
 st.markdown("""
 **Before running the prompt below, download and unzip the data:**
 
-1. Download the zip file containing all CSVs: [tricon_sfr_data.zip](https://github.com/carson-walker_snow/coco-hol-tricon/raw/main/workshop_guide/data/tricon_sfr_data.zip)
+1. Download the zip file containing all CSVs: [tricon_sfr_data.zip](https://github.com/sfc-gh-cwalker/coco-hol-tricon/raw/main/workshop_guide/data/tricon_sfr_data.zip)
 2. Unzip it to a folder called `tricon_sfr_data` in your Downloads folder.
 3. Copy the prompt below into Cortex Code Desktop. Desktop can read your local files, so it uploads the CSVs for you.
 
