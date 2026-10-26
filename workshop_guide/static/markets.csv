@@ -1,0 +1,15 @@
+MARKET_ID,MARKET_NAME,STATE,REGION,ENTRY_YEAR,TARGET_OCCUPANCY_PCT,BASE_MARKET_RENT
+MKT01,Atlanta,GA,Southeast,2013,96.5,1650
+MKT02,Charlotte,NC,Southeast,2013,95.0,1700
+MKT03,Phoenix,AZ,Southwest,2012,96.5,1850
+MKT04,Tampa,FL,Florida,2014,95.0,1950
+MKT05,Dallas-Fort Worth,TX,Texas,2015,95.0,1800
+MKT06,Houston,TX,Texas,2015,95.0,1650
+MKT07,Nashville,TN,Southeast,2016,95.5,1900
+MKT08,Raleigh,NC,Southeast,2017,96.0,1750
+MKT09,Jacksonville,FL,Florida,2016,95.5,1700
+MKT10,Orlando,FL,Florida,2017,95.0,1900
+MKT11,Las Vegas,NV,Southwest,2014,95.0,1800
+MKT12,Columbia,SC,Southeast,2018,96.5,1450
+MKT13,Indianapolis,IN,Midwest,2015,96.5,1450
+MKT14,Southeast Florida,FL,Florida,2019,95.5,2600

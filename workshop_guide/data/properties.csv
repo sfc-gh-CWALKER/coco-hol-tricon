@@ -1,0 +1,121 @@
+PROPERTY_ID,MARKET_ID,ADDRESS,CITY,STATE,BEDROOMS,BATHROOMS,SQUARE_FEET,YEAR_BUILT,ACQUISITION_DATE,ACQUISITION_PRICE,PROPERTY_TYPE,PROPERTY_STATUS
+P0001,MKT01,2811 Laurel Park Pl,Marietta,GA,3,2.5,1731,2003,2020-06-08,328000,Build-to-Rent Community,Occupied
+P0002,MKT02,2712 Magnolia Ct,Matthews,NC,3,2.5,1523,1996,2019-02-03,230000,Build-to-Rent Community,Occupied
+P0003,MKT03,3827 Palm Harbor Blvd,Chandler,AZ,4,3.0,1899,2016,2017-10-13,433000,Scattered Site,Occupied
+P0004,MKT04,4041 Desert Sage Ave,Riverview,FL,4,2.5,1713,1998,2018-02-09,340000,Scattered Site,Occupied
+P0005,MKT05,1236 Riverstone Dr,Mesquite,TX,3,2.5,1477,2002,2015-08-17,256000,Scattered Site,Occupied
+P0006,MKT06,8438 Magnolia Ct,Katy,TX,4,2.5,1898,2005,2023-06-14,257000,Scattered Site,Vacant - Make Ready
+P0007,MKT07,1564 Juniper Springs Rd,Antioch,TN,3,2.5,1736,2017,2020-05-22,280000,Build-to-Rent Community,Occupied
+P0008,MKT08,1115 Cedar Ridge Ln,Apex,NC,4,2.5,1905,2021,2023-03-26,437000,Build-to-Rent Community,Occupied
+P0009,MKT09,258 Heritage Oaks Dr,Orange Park,FL,3,2.5,1739,2011,2019-02-13,259000,Scattered Site,Occupied
+P0010,MKT10,9138 Desert Sage Ave,Kissimmee,FL,4,2.5,1820,2014,2024-03-26,360000,Build-to-Rent Community,Occupied
+P0011,MKT11,7729 Bluebonnet Ln,Summerlin,NV,4,3.0,1651,2013,2023-03-21,250000,Scattered Site,Occupied
+P0012,MKT12,772 Oak Hollow Dr,Blythewood,SC,3,2.5,1718,2005,2021-02-13,279000,Scattered Site,Occupied
+P0013,MKT13,1233 Cedar Ridge Ln,Fishers,IN,4,2.5,1749,2007,2021-06-17,257000,Scattered Site,Vacant - Make Ready
+P0014,MKT14,1594 Magnolia Ct,Boynton Beach,FL,4,3.0,1962,2003,2023-08-29,615000,Scattered Site,Occupied
+P0015,MKT01,3929 Oak Hollow Dr,Marietta,GA,3,2.0,1407,2007,2021-10-24,196000,Scattered Site,Occupied
+P0016,MKT02,8184 Heritage Oaks Dr,Concord,NC,3,2.5,1620,2007,2014-12-08,222000,Scattered Site,Occupied
+P0017,MKT03,1441 Desert Sage Ave,Mesa,AZ,5,3.5,2325,2002,2019-09-29,410000,Build-to-Rent Community,Occupied
+P0018,MKT04,1785 Cedar Ridge Ln,Wesley Chapel,FL,4,3.0,1824,2014,2015-08-09,455000,Scattered Site,Occupied
+P0019,MKT05,3712 Oak Hollow Dr,Mesquite,TX,3,2.5,1256,2008,2021-12-09,234000,Build-to-Rent Community,Occupied
+P0020,MKT06,5369 Oak Hollow Dr,Spring,TX,3,2.5,1681,1999,2023-10-20,277000,Scattered Site,Occupied
+P0021,MKT07,8761 Pine Meadow Rd,Smyrna,TN,3,2.0,1259,1998,2019-05-31,298000,Scattered Site,Occupied
+P0022,MKT08,9018 Cypress Point Ln,Cary,NC,3,2.5,1737,2015,2016-01-04,332000,Scattered Site,Vacant - Listed
+P0023,MKT09,806 Bluebonnet Ln,Orange Park,FL,5,3.5,2129,2000,2017-02-08,418000,Scattered Site,Occupied
+P0024,MKT10,1065 Cedar Ridge Ln,Clermont,FL,3,2.0,1607,2020,2020-07-04,346000,Build-to-Rent Community,Occupied
+P0025,MKT11,2566 Riverstone Dr,Henderson,NV,3,2.0,1659,2008,2019-12-26,257000,Build-to-Rent Community,Occupied
+P0026,MKT12,8172 Riverstone Dr,Irmo,SC,4,2.5,2026,2004,2022-07-24,381000,Scattered Site,Occupied
+P0027,MKT13,8975 Laurel Park Pl,Fishers,IN,3,2.5,1201,2012,2019-12-05,191000,Scattered Site,Occupied
+P0028,MKT14,8565 Cedar Ridge Ln,Boynton Beach,FL,4,3.0,1661,2005,2016-05-04,481000,Scattered Site,Occupied
+P0029,MKT01,1234 Oak Hollow Dr,Kennesaw,GA,5,3.5,2559,2015,2020-12-01,343000,Build-to-Rent Community,Pending Disposition
+P0030,MKT02,7242 Cypress Point Ln,Huntersville,NC,3,2.0,1572,2017,2024-03-20,278000,Scattered Site,Occupied
+P0031,MKT03,9587 Heritage Oaks Dr,Gilbert,AZ,3,2.5,1703,2016,2022-02-18,351000,Build-to-Rent Community,Pending Disposition
+P0032,MKT04,2300 Pine Meadow Rd,Riverview,FL,4,2.5,2007,2021,2022-09-20,417000,Scattered Site,Occupied
+P0033,MKT05,2209 Willow Bend Way,McKinney,TX,3,2.5,1531,1999,2023-08-08,365000,Scattered Site,Occupied
+P0034,MKT06,9637 Hickory Grove Ct,Cypress,TX,3,2.5,1403,2008,2018-05-29,262000,Scattered Site,Occupied
+P0035,MKT07,966 Cedar Ridge Ln,Antioch,TN,4,3.0,1816,1999,2023-03-17,326000,Build-to-Rent Community,Occupied
+P0036,MKT08,2620 Oak Hollow Dr,Garner,NC,3,2.5,1724,2007,2022-06-12,294000,Scattered Site,Occupied
+P0037,MKT09,6869 Magnolia Ct,Orange Park,FL,3,2.5,1598,2002,2020-08-23,242000,Build-to-Rent Community,Occupied
+P0038,MKT10,186 Cedar Ridge Ln,Kissimmee,FL,4,2.5,2082,2006,2023-01-29,444000,Scattered Site,Occupied
+P0039,MKT11,7772 Juniper Springs Rd,Henderson,NV,4,2.5,1669,2005,2022-05-20,348000,Build-to-Rent Community,Occupied
+P0040,MKT12,9587 Bluebonnet Ln,Blythewood,SC,5,3.5,2481,2013,2018-08-24,465000,Build-to-Rent Community,Vacant - Make Ready
+P0041,MKT13,1243 Riverstone Dr,Fishers,IN,3,2.5,1685,2016,2017-06-02,216000,Scattered Site,Occupied
+P0042,MKT14,8983 Hickory Grove Ct,Davie,FL,4,2.5,1955,1996,2022-07-06,437000,Build-to-Rent Community,Occupied
+P0043,MKT01,6806 Magnolia Ct,Snellville,GA,3,2.5,1536,2001,2022-07-16,286000,Scattered Site,Occupied
+P0044,MKT02,4146 Palm Harbor Blvd,Matthews,NC,3,2.5,1577,2015,2014-11-02,267000,Scattered Site,Occupied
+P0045,MKT03,3459 Bluebonnet Ln,Chandler,AZ,4,2.5,2052,2002,2018-07-13,318000,Scattered Site,Occupied
+P0046,MKT04,824 Magnolia Ct,Wesley Chapel,FL,3,2.0,1699,2011,2022-07-31,345000,Scattered Site,Occupied
+P0047,MKT05,229 Desert Sage Ave,Mesquite,TX,3,2.5,1278,2004,2014-02-11,237000,Scattered Site,Occupied
+P0048,MKT06,8881 Sunset Trail,Cypress,TX,3,2.5,1318,1999,2017-01-23,281000,Scattered Site,Occupied
+P0049,MKT07,5746 Cypress Point Ln,Smyrna,TN,4,3.0,1947,2020,2023-12-14,299000,Build-to-Rent Community,Occupied
+P0050,MKT08,2353 Hickory Grove Ct,Cary,NC,3,2.0,1488,2004,2023-03-16,274000,Build-to-Rent Community,Occupied
+P0051,MKT09,2436 Cedar Ridge Ln,Mandarin,FL,4,3.0,1894,1999,2018-07-16,420000,Build-to-Rent Community,Vacant - Make Ready
+P0052,MKT10,5582 Laurel Park Pl,Sanford,FL,4,2.5,2015,2010,2020-04-13,464000,Scattered Site,Occupied
+P0053,MKT11,2311 Hickory Grove Ct,Henderson,NV,3,2.0,1209,2008,2019-03-19,215000,Scattered Site,Occupied
+P0054,MKT12,5829 Desert Sage Ave,Blythewood,SC,3,2.0,1674,2010,2014-10-26,225000,Scattered Site,Vacant - Make Ready
+P0055,MKT13,8021 Heritage Oaks Dr,Greenwood,IN,3,2.0,1412,2014,2019-08-29,241000,Build-to-Rent Community,Occupied
+P0056,MKT14,8407 Oak Hollow Dr,Homestead,FL,4,2.5,1690,2021,2022-02-21,406000,Build-to-Rent Community,Occupied
+P0057,MKT01,933 Cypress Point Ln,Kennesaw,GA,5,3.5,2243,2008,2023-02-23,461000,Scattered Site,Occupied
+P0058,MKT02,3302 Sunset Trail,Huntersville,NC,5,3.5,2405,2014,2020-11-14,396000,Scattered Site,Occupied
+P0059,MKT03,4389 Willow Bend Way,Mesa,AZ,3,2.0,1358,2012,2015-02-16,233000,Scattered Site,Occupied
+P0060,MKT04,7200 Pine Meadow Rd,Wesley Chapel,FL,3,2.0,1442,2013,2019-12-02,310000,Scattered Site,Occupied
+P0061,MKT05,7171 Riverstone Dr,Arlington,TX,3,2.0,1417,2018,2023-04-07,265000,Scattered Site,Vacant - Listed
+P0062,MKT06,7376 Pine Meadow Rd,Pearland,TX,4,2.5,1996,2008,2014-04-06,399000,Build-to-Rent Community,Occupied
+P0063,MKT07,637 Juniper Springs Rd,Hendersonville,TN,3,2.5,1651,2011,2019-11-27,376000,Scattered Site,Occupied
+P0064,MKT08,9551 Willow Bend Way,Garner,NC,4,2.5,2002,2008,2024-03-21,283000,Build-to-Rent Community,Occupied
+P0065,MKT09,2382 Laurel Park Pl,Orange Park,FL,4,3.0,2105,2012,2023-11-15,464000,Scattered Site,Occupied
+P0066,MKT10,9451 Sunset Trail,Sanford,FL,5,3.5,2378,1999,2021-02-07,413000,Scattered Site,Occupied
+P0067,MKT11,4772 Palm Harbor Blvd,Summerlin,NV,3,2.5,1457,2005,2022-04-13,250000,Scattered Site,Occupied
+P0068,MKT12,8231 Palm Harbor Blvd,Blythewood,SC,3,2.0,1647,2013,2017-04-24,212000,Scattered Site,Occupied
+P0069,MKT13,8400 Laurel Park Pl,Greenwood,IN,3,2.0,1632,2017,2023-04-27,310000,Build-to-Rent Community,Occupied
+P0070,MKT14,6563 Bluebonnet Ln,Port St. Lucie,FL,3,2.0,1601,2010,2016-01-21,458000,Build-to-Rent Community,Vacant - Make Ready
+P0071,MKT01,5737 Cypress Point Ln,Marietta,GA,4,2.5,1923,2005,2015-01-12,292000,Scattered Site,Occupied
+P0072,MKT02,8752 Heritage Oaks Dr,Matthews,NC,4,2.5,2195,2009,2018-08-28,426000,Scattered Site,Occupied
+P0073,MKT03,5142 Sunset Trail,Mesa,AZ,4,3.0,2132,1996,2016-10-03,334000,Scattered Site,Occupied
+P0074,MKT04,8084 Willow Bend Way,Clearwater,FL,3,2.5,1472,2007,2017-05-08,308000,Build-to-Rent Community,Occupied
+P0075,MKT05,9346 Oak Hollow Dr,Arlington,TX,4,3.0,2073,2015,2017-03-27,384000,Scattered Site,Occupied
+P0076,MKT06,9524 Juniper Springs Rd,Spring,TX,5,3.5,2371,1999,2017-04-19,389000,Build-to-Rent Community,Occupied
+P0077,MKT07,1639 Willow Bend Way,Murfreesboro,TN,3,2.0,1312,1996,2017-06-10,261000,Scattered Site,Occupied
+P0078,MKT08,110 Bluebonnet Ln,Apex,NC,3,2.0,1306,2011,2022-04-30,222000,Scattered Site,Occupied
+P0079,MKT09,2826 Willow Bend Way,Fleming Island,FL,3,2.0,1450,2000,2021-03-07,250000,Build-to-Rent Community,Occupied
+P0080,MKT10,9888 Cedar Ridge Ln,Clermont,FL,3,2.5,1265,2004,2023-02-10,212000,Scattered Site,Occupied
+P0081,MKT11,7984 Riverstone Dr,Enterprise,NV,4,3.0,2090,1998,2019-06-11,335000,Scattered Site,Occupied
+P0082,MKT12,8659 Pine Meadow Rd,Lexington,SC,3,2.0,1589,1997,2019-08-08,285000,Scattered Site,Occupied
+P0083,MKT13,1376 Heritage Oaks Dr,Greenwood,IN,3,2.0,1694,2001,2015-05-08,282000,Scattered Site,Occupied
+P0084,MKT14,2929 Willow Bend Way,Homestead,FL,4,3.0,1660,2005,2018-06-21,486000,Build-to-Rent Community,Occupied
+P0085,MKT01,326 Cedar Ridge Ln,Kennesaw,GA,4,2.5,2198,2009,2015-01-14,369000,Scattered Site,Vacant - Make Ready
+P0086,MKT02,4014 Desert Sage Ave,Matthews,NC,3,2.5,1680,2005,2016-09-12,255000,Scattered Site,Occupied
+P0087,MKT03,6469 Cedar Ridge Ln,Mesa,AZ,3,2.5,1626,2020,2020-04-08,396000,Build-to-Rent Community,Occupied
+P0088,MKT04,3040 Magnolia Ct,Wesley Chapel,FL,3,2.0,1535,2017,2014-12-02,286000,Scattered Site,Occupied
+P0089,MKT05,8805 Heritage Oaks Dr,McKinney,TX,3,2.0,1529,2011,2017-02-01,273000,Scattered Site,Occupied
+P0090,MKT06,1012 Cedar Ridge Ln,Cypress,TX,3,2.5,1490,2010,2018-10-02,295000,Scattered Site,Occupied
+P0091,MKT07,6175 Cedar Ridge Ln,Hendersonville,TN,4,2.5,1692,2016,2018-03-06,311000,Scattered Site,Occupied
+P0092,MKT08,3429 Hickory Grove Ct,Wake Forest,NC,3,2.0,1257,2021,2020-06-27,269000,Build-to-Rent Community,Vacant - Listed
+P0093,MKT09,171 Pine Meadow Rd,Orange Park,FL,3,2.5,1291,2006,2016-06-14,288000,Build-to-Rent Community,Occupied
+P0094,MKT10,5176 Magnolia Ct,Sanford,FL,4,3.0,1698,2016,2016-04-04,367000,Scattered Site,Occupied
+P0095,MKT11,1870 Willow Bend Way,Henderson,NV,3,2.5,1425,2002,2015-06-12,333000,Build-to-Rent Community,Occupied
+P0096,MKT12,1526 Palm Harbor Blvd,Irmo,SC,4,3.0,1874,1997,2023-11-21,308000,Build-to-Rent Community,Occupied
+P0097,MKT13,6540 Pine Meadow Rd,Avon,IN,4,2.5,1847,1997,2018-10-28,252000,Scattered Site,Occupied
+P0098,MKT14,7235 Cypress Point Ln,Boynton Beach,FL,3,2.5,1573,2012,2016-07-13,442000,Build-to-Rent Community,Occupied
+P0099,MKT01,5329 Hickory Grove Ct,Marietta,GA,4,2.5,1904,2004,2019-10-21,285000,Scattered Site,Occupied
+P0100,MKT02,6584 Cedar Ridge Ln,Huntersville,NC,5,3.5,2300,2005,2021-08-10,475000,Build-to-Rent Community,Occupied
+P0101,MKT03,1393 Hickory Grove Ct,Gilbert,AZ,3,2.5,1423,2014,2015-04-18,325000,Scattered Site,Occupied
+P0102,MKT04,8790 Oak Hollow Dr,Brandon,FL,3,2.5,1263,2012,2015-04-13,291000,Scattered Site,Occupied
+P0103,MKT05,8016 Willow Bend Way,McKinney,TX,3,2.5,1249,1998,2017-12-12,222000,Scattered Site,Occupied
+P0104,MKT06,9284 Bluebonnet Ln,Spring,TX,3,2.5,1670,2001,2019-12-30,325000,Build-to-Rent Community,Occupied
+P0105,MKT07,3779 Oak Hollow Dr,Murfreesboro,TN,3,2.5,1534,2017,2023-06-23,364000,Scattered Site,Vacant - Listed
+P0106,MKT08,9096 Cypress Point Ln,Cary,NC,4,3.0,2121,2010,2015-09-18,399000,Scattered Site,Occupied
+P0107,MKT09,8321 Laurel Park Pl,Yulee,FL,4,2.5,2153,2011,2020-01-04,328000,Build-to-Rent Community,Occupied
+P0108,MKT10,7076 Heritage Oaks Dr,Clermont,FL,5,3.5,2156,2009,2018-04-25,331000,Scattered Site,Occupied
+P0109,MKT11,7714 Laurel Park Pl,Enterprise,NV,4,3.0,1675,2014,2019-07-25,357000,Build-to-Rent Community,Occupied
+P0110,MKT12,1046 Hickory Grove Ct,Irmo,SC,3,2.5,1451,2012,2018-02-01,223000,Scattered Site,Occupied
+P0111,MKT13,8080 Bluebonnet Ln,Fishers,IN,3,2.5,1704,2020,2019-09-21,264000,Scattered Site,Occupied
+P0112,MKT14,3203 Riverstone Dr,Boynton Beach,FL,4,3.0,1897,1996,2022-12-31,646000,Build-to-Rent Community,Occupied
+P0113,MKT01,5072 Cypress Point Ln,Kennesaw,GA,3,2.0,1616,2018,2019-10-09,249000,Scattered Site,Occupied
+P0114,MKT02,5611 Pine Meadow Rd,Huntersville,NC,4,2.5,1926,1996,2015-07-03,343000,Scattered Site,Occupied
+P0115,MKT03,7188 Magnolia Ct,Chandler,AZ,5,3.5,2540,2013,2019-01-06,619000,Build-to-Rent Community,Occupied
+P0116,MKT04,2475 Laurel Park Pl,Wesley Chapel,FL,3,2.5,1409,1997,2019-02-25,257000,Build-to-Rent Community,Vacant - Listed
+P0117,MKT05,8423 Hickory Grove Ct,Mesquite,TX,4,2.5,2139,1997,2018-10-02,321000,Scattered Site,Occupied
+P0118,MKT06,2302 Desert Sage Ave,Pearland,TX,4,2.5,1928,1997,2018-12-24,300000,Scattered Site,Occupied
+P0119,MKT07,9096 Laurel Park Pl,Antioch,TN,3,2.0,1330,2020,2015-08-25,265000,Build-to-Rent Community,Occupied
+P0120,MKT08,2888 Juniper Springs Rd,Apex,NC,3,2.5,1680,2013,2014-02-09,388000,Scattered Site,Vacant - Make Ready

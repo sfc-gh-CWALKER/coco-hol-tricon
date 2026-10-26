@@ -1,0 +1,16 @@
+VENDOR_ID,VENDOR_NAME,TRADE,SERVICE_REGION,QUALITY_RATING,PREFERRED_VENDOR,SLA_HOURS
+V001,Sun Belt HVAC Services,HVAC,Southwest,4.0,N,24
+V002,ProFlow Plumbing,Plumbing,Florida,4.2,Y,72
+V003,BrightLine Electric,Electrical,Texas,4.2,Y,48
+V004,Greenway Lawn & Landscape,Landscaping,National,4.7,Y,24
+V005,Apex Roofing Partners,Roofing,Southwest,3.4,Y,48
+V006,TurnKey Make-Ready Co,Turnover / Make-Ready,Southwest,3.9,Y,48
+V007,ShieldPest Solutions,Pest Control,Florida,3.4,Y,48
+V008,Keystone Appliance Repair,Appliances,Florida,4.1,Y,48
+V009,ClearView Glass & Doors,Doors & Windows,National,3.8,Y,24
+V010,Summit General Contracting,General Repair,National,3.4,Y,24
+V011,CoolBreeze Mechanical,HVAC,National,4.9,N,48
+V012,RapidRooter Drain Pros,Plumbing,Southeast,4.0,Y,48
+V013,FreshCoat Painting,Turnover / Make-Ready,Southwest,4.1,Y,72
+V014,Guardian Water Restoration,Water Mitigation,Southwest,4.1,Y,72
+V015,Precision Flooring Group,Flooring,Florida,4.5,Y,72
